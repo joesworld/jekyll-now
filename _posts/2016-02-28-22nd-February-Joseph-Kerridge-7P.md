@@ -1,5 +1,5 @@
 ---
-title: 22nd February Joseph Kerridge 7P
+title: 22nd February 
 layout: post
 author: joseph.kerridge
 permalink: /22nd-february-joseph-kerridge-7p/
