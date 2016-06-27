@@ -1,5 +1,5 @@
 ---
-title: First Post
+title: Monday 2nd January
 layout: post
 author: joseph.kerridge
 permalink: /firstpost/
