@@ -10,7 +10,9 @@ published: true
 
 **Date **	25/9/16
 
-**Starting point		**	 In today's lesson we used variables for the first time.	**Target for the lesson	**To let my partner get more involved.		
+**Starting point			** In today's lesson we used variables for the first time.	
+
+**Target for the lesson	**To let my partner get more involved.		
 
 **Did I reach my target?**	Yes, I did reach my target. We both did the same amount of     				work and we worked together really well.
 
