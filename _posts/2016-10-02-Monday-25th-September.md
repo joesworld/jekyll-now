@@ -10,7 +10,7 @@ published: true
 
 **Date **	25/9/16
 
-**Starting point			** In today's lesson we used variables for the first time.	
+**Starting point****			** In today's lesson we used variables for the first time.	
 
 **Target for the lesson	**To let my partner get more involved.		
 
