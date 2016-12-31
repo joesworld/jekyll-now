@@ -28,7 +28,7 @@ published: true
   <tr>
     <td>Did I reach my target?
 (add details to “Lesson Review”)</td>
-    <td>Today I most certainly reached the target I set out for myself at the beginning of the lesson, the game that we were allowed to play was called lightbot, and you have to make code for the little robot to follow, so we were still doing IT but in a different way. Here is the link to the game: @http://www.abcya.com/lightbot.htm</td>
+    <td>Today I most certainly reached the target I set out for myself at the beginning of the lesson, the game that we were allowed to play was called lightbot, and you have to make code for the little robot to follow, so we were still doing IT but in a different way. Here is the link to the game: http://www.abcya.com/lightbot.htm</td>
   </tr>
 </table>
 
