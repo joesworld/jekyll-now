@@ -115,14 +115,14 @@ table{
 }
 
 table, th, td{
-border: 1px solid #005ce6;
+border: 1px solid white;
 background-color: #005ce6;
 
 }
 
 td {
 vertical-align: middle; 
-padding: 25px;
+padding: 10px;
 }	
 
 th {
@@ -130,6 +130,18 @@ color: white;
 background: #233237;
 height:50px;
 vertical-align: middle;
+
+}
+
+div.vid {
+	width: 560px;
+	height: 340px;
+	margin: 0 auto;
+}
+
+ iframe{
+	 width: 100%;
+	 
 }
 
 Add class comment…
