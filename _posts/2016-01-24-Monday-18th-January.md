@@ -8,7 +8,7 @@ published: true
 ---
 **Monday 18th January**
 
-**Today we discussed reality and fantasy**** and whether the things that we see on 'reality TV' is actually true and not scripted. This was really interesting as many of us thought that is was all fake and a bunch of baloney.** 
+**Today we discussed homosexuality**** and whether the things that we see on 'reality TV' is actually true and not scripted. This was really interesting as many of us thought that is was all fake and a bunch of baloney.** 
 
 **XXX**
 
