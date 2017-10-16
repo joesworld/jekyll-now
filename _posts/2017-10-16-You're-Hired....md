@@ -16,3 +16,6 @@ All in all it was a good lesson, I helped myself, helped other people and finish
 
 So, that's it from me, Joe Out…  
 
+
+https://docs.google.com/spreadsheets/d/e/2PACX-1vT_wUehOHG7UqNKQ3DNydtWYSnUbq9dNRCsHluwBsSyTIiVWw-LVRJtTGLTD04LYE0QSv4eRgEbO62u/pubhtml
+
